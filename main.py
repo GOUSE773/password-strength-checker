@@ -32,7 +32,7 @@ def check_password(password):
 
     # If the password meets all criteria
     print("\U0001F60E")
-    return "Password is strong."
+    return "Password is strong..."
 
 # Running the code
 password = input("Enter your password(A-Z,a-z,0-9,!@#$%^&*...):\n")
